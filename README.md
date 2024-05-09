@@ -2,8 +2,8 @@
 
 **Here is lullaybe's codespace**
 <ul>
-<li>- 🔭 I’m currently working on __Convex optimization__</li>
-<li>- 🌱 I’m currently learning __OS__</li>
+<li>- 🔭 I’m currently working on **convex optimization** </li>
+<li>- 🌱 I’m currently learning **OS**</li>
 <li>- 👯 I’m looking to collaborate on someone , feel free to contact me</li>
 <li>- 📫 How to reach me: 2199288762@qq.com</li>
 
