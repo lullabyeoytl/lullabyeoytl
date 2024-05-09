@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02080A&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=%E4%B8%80%E6%9E%9A%E5%93%88%E5%B7%A5%E5%A4%A7%E5%8D%91%E5%BE%AE%E5%A4%A7%E4%B8%80%E7%94%9F;%E4%BB%A3%E7%A0%81%E6%98%AF%E4%B8%8D%E4%BC%9A%E5%86%99%E7%9A%84%EF%BC%8C%E4%B8%BB%E9%A1%B5%E6%98%AF%E8%A6%81%E6%BC%82%E4%BA%AE%E7%9A%84%EF%BC%88%E9%80%83%EF%BC%89)](https://git.io/typing-svg)
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Achuan-2" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
 
 <!--
 **lullabyeoytl/lullabyeoytl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
