@@ -16,7 +16,7 @@
 <span>  </span>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lullabyeoytla&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lullabyeoytl&count_private=true)
 <!--
 **lullabyeoytl/lullabyeoytl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
