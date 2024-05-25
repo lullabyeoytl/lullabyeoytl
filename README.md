@@ -12,11 +12,11 @@
 
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=lullabyeoytl" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lullabyeoytl&layout=compact&langs_count=8" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lullabyeoytl&count_private=true)
 <span>  </span>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lullabyeoytl&count_private=true)
+
 <!--
 **lullabyeoytl/lullabyeoytl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
