@@ -10,11 +10,7 @@
 </ul>
 
 
-<div align="center">
-<span>  </span>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lullabyeoytl&count_private=true)
-<span>  </span>
-</div>
 
 
 <!--
