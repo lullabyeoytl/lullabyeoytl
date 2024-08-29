@@ -9,7 +9,7 @@
 
 </ul>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lullabyeoytl&layout=compact count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lullabyeoytl&layout=compact)
 <!--
 **lullabyeoytl/lullabyeoytl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
