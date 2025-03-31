@@ -13,7 +13,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lullabyeoytl&langs_count=6)
 
-[![lullabyeoytl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lullabyeoytl)](https://github.com/lullabyeoytl/github-readme-stats)
 
 <!--
 **lullabyeoytl/lullabyeoytl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
