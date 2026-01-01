@@ -11,8 +11,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/ae72f1f2-9fb5-4911-93d9-6c999a96986f.svg)](https://wakatime.com/@ae72f1f2-9fb5-4911-93d9-6c999a96986f)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lullabyeoytl)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **lullabyeoytl/lullabyeoytl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
